@@ -1,26 +1,4 @@
 # Hi there, I'm Dheerendra Pratap! 👋
-
-An enthusiastic **Fresher** and aspiring tech professional. I am highly interested in **Data Analysis, Software Testing, and Quality Control**, leveraging my programming and analytical skills to ensure high-quality software and data driven insights.
-
-### 🛠️ Programming Languages & Tech Stack
-- **Languages:** Python, Java, C++, HTML
-- **Databases & Tools:** SQL, DBMS
-- **Core Interests:** Data Cleaning, Software Testing, Quality Inspection (QC)
-
-### 🌟 Featured AI Project
-- **[Doctor-online-Appointment-System-Main]**: I recently developed an AI-powered project focused on intelligent problem-solving and automation.
-
-### 🤝 Let's Connect!
-💼 **LinkedIn:** (https://www.linkedin.com/in/dheerend-rapratap-mca/)
-- 📧 **Email:** dheerendra8429@gmail.com
-
----
-*⚡ "Dedicated to precision, clean code, and continuous learning!"*
-
-
-
-
-# Hi there, I'm Dheerendra Pratap! 👋
 **Quality Executive | MCA Graduate | Software Testing & Data Analytics Professional**
 
 Result-oriented **Quality Executive** with over 5+ years of hands-on experience in quality inspection, process monitoring, and team coordination. Armed with a **Master of Computer Applications (MCA)** degree, I combine core technical skills (Python, SQL, Power BI) with industry-proven QA methodologies to drive operational efficiency and defect-free product delivery.
