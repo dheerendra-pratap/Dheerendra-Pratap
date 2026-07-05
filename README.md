@@ -71,13 +71,12 @@ Result-oriented **Quality Executive** with over 5+ years of hands-on experience 
 ### 📊 GitHub Stats & Contributions
 <p align="left">
   <img src="https://vercel.app" alt="Dheerendra's GitHub Stats" height="150" />
-  <img src="https://herokuapp.com" alt="Dheerendra's GitHub Streak" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
--💼 **LinkedIn:** (https://www.linkedin.com/in/dheerend-rapratap-mca/)
+-💼 **LinkedIn:** www.linkedin.com/in/pratap-mca
 - 📧 **Email:** dheerendra8429@gmail.com
 - 📍 **Location:** Kanpur, Uttar Pradesh, India
 - 🗣️ **Languages:** Hindi, English
